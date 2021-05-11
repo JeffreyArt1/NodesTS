@@ -1,0 +1,19 @@
+{
+  "name": "nodests",
+  "version": "1.0.0",
+  "description": "Si",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyArt1/NodesTS.git"
+  },
+  "author": "Jeffrey Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyArt1/NodesTS/issues"
+  },
+  "homepage": "https://github.com/JeffreyArt1/NodesTS#readme"
+}
