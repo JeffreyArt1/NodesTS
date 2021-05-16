@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "outDir": "dist/",
+    "baseUrl": "./"
+  },
+  "include": ["src/"],
+  "exclude": ["node_modules", "dist"]
+}
