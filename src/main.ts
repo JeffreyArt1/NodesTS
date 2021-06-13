@@ -1,16 +1,4 @@
-class Nodo {
-  constructor(value: number, parent: Nodo, left: Nodo, right: Nodo) {
-    this.value = value;
-    this.parent = parent;
-    this.left = left;
-    this.right = right;
-  }
-
-  value: number;
-  parent: Nodo;
-  left: Nodo;
-  right: Nodo;
-}
+import { Nodo } from './lib/nodo';
 
 let Node1 = new Nodo(20, null, null, null);
 let Node2 = new Nodo(9, Node1, null, null);
